@@ -23,7 +23,7 @@ export default function Footer() {
               </span>
             </Link>
             <p className="text-sm text-muted-foreground">
-              Navegando em grafos, simplificando o mundo.
+              Mapas em grafos.
             </p>
           </div>
 
